@@ -1,0 +1,12 @@
+Livro, A Guerra dos Tronos, gt3421
+Livro, A Fúria dos Reis, fr4589
+Livro, A Tormenta de Espadas, te5632
+Livro, O Festim dos Corvos, fc7890
+Livro, A Dança dos Dragões, dd9012
+Livro, Harry Potter e a Pedra Filosofal, hp1234
+Livro, Harry Potter e a Câmara Secreta, cs5678
+Livro, Harry Potter e o Prisioneiro de Azkaban, pa9012
+Livro, Harry Potter e o Cálice de Fogo, cf3456
+Livro, Harry Potter e a Ordem da Fênix, of7890
+Livro, Harry Potter e o Enigma do Príncipe, ep2345
+Livro, Harry Potter e as Relíquias da Morte, rd6789
