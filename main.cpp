@@ -11,7 +11,6 @@ int main() {
   // Criar uma instância de Biblioteca
   Biblioteca biblioteca;
 
-  
   int escolha;
 
   do {
