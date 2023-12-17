@@ -62,3 +62,5 @@ touch materiais.txt membros.txt transacoes.txt
 
 Espero que esta descrição seja útil. Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 Pretendo implementar melhorias, pricipalmente no processo de devolução e empréstimo. 
+
+Para testar o código em execução, clique [aqui](https://replit.com/@GeraldoLucas1/Sistema-de-Biblioteca?v=1).
