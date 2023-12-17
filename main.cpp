@@ -1,15 +1,13 @@
 #include "biblioteca.h"
 #include <cstdlib>
 #include <iostream>
-#include <windows.h>
+
 // Função para limpar o console
 void limparConsole() {
     std::cout << "\033[2J\033[H"; // Código de escape ANSI para limpar a tela
 }
 
 int main() {
-  //TRatamento para caracteres especial da ligua portuguesa 
-  SetConsoleOutputCP(CP_UTF8);
   // Criar uma instância de Biblioteca
   Biblioteca biblioteca;
 
